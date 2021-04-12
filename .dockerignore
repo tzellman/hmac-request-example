@@ -1,0 +1,16 @@
+.git*
+Dockerfile
+**/node_modules
+*.log
+*.md
+
+*~
+*.iml
+*.ipr
+*.iws
+*.ids
+.idea
+*.pyc
+*.bak
+
+**/tmp
